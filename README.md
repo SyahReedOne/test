@@ -1,3 +1,1 @@
-<?php
-    echo 'Hello World!';
-?>
+# Just a repo to train github commands.
